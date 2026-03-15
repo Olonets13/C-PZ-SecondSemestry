@@ -1,0 +1,15 @@
+C:\Users\roman\source\repos\Practical_3\Folder_Inspector\bin\Debug\net8.0\Folder_Inspector.exe
+C:\Users\roman\source\repos\Practical_3\Folder_Inspector\bin\Debug\net8.0\Folder_Inspector.deps.json
+C:\Users\roman\source\repos\Practical_3\Folder_Inspector\bin\Debug\net8.0\Folder_Inspector.runtimeconfig.json
+C:\Users\roman\source\repos\Practical_3\Folder_Inspector\bin\Debug\net8.0\Folder_Inspector.dll
+C:\Users\roman\source\repos\Practical_3\Folder_Inspector\bin\Debug\net8.0\Folder_Inspector.pdb
+C:\Users\roman\source\repos\Practical_3\Folder_Inspector\obj\Debug\net8.0\Folder_Inspector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\Practical_3\Folder_Inspector\obj\Debug\net8.0\Folder_Inspector.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\Practical_3\Folder_Inspector\obj\Debug\net8.0\Folder_Inspector.AssemblyInfo.cs
+C:\Users\roman\source\repos\Practical_3\Folder_Inspector\obj\Debug\net8.0\Folder_Inspector.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\Practical_3\Folder_Inspector\obj\Debug\net8.0\Folder_Inspector.sourcelink.json
+C:\Users\roman\source\repos\Practical_3\Folder_Inspector\obj\Debug\net8.0\Folder_Inspector.dll
+C:\Users\roman\source\repos\Practical_3\Folder_Inspector\obj\Debug\net8.0\refint\Folder_Inspector.dll
+C:\Users\roman\source\repos\Practical_3\Folder_Inspector\obj\Debug\net8.0\Folder_Inspector.pdb
+C:\Users\roman\source\repos\Practical_3\Folder_Inspector\obj\Debug\net8.0\Folder_Inspector.genruntimeconfig.cache
+C:\Users\roman\source\repos\Practical_3\Folder_Inspector\obj\Debug\net8.0\ref\Folder_Inspector.dll

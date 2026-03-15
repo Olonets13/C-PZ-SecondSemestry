@@ -1,1 +1,1 @@
-# C-Lab1-SecondSemestry
+# cs_2_semester
