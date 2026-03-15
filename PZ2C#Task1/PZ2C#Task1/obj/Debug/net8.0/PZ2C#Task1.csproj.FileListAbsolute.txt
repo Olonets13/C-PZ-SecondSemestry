@@ -1,0 +1,14 @@
+C:\Users\VIVOBOOK\source\repos\PZ2C#Task1\PZ2C#Task1\bin\Debug\net8.0\PZ2C#Task1.exe
+C:\Users\VIVOBOOK\source\repos\PZ2C#Task1\PZ2C#Task1\bin\Debug\net8.0\PZ2C#Task1.deps.json
+C:\Users\VIVOBOOK\source\repos\PZ2C#Task1\PZ2C#Task1\bin\Debug\net8.0\PZ2C#Task1.runtimeconfig.json
+C:\Users\VIVOBOOK\source\repos\PZ2C#Task1\PZ2C#Task1\bin\Debug\net8.0\PZ2C#Task1.dll
+C:\Users\VIVOBOOK\source\repos\PZ2C#Task1\PZ2C#Task1\bin\Debug\net8.0\PZ2C#Task1.pdb
+C:\Users\VIVOBOOK\source\repos\PZ2C#Task1\PZ2C#Task1\obj\Debug\net8.0\PZ2C#Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIVOBOOK\source\repos\PZ2C#Task1\PZ2C#Task1\obj\Debug\net8.0\PZ2C#Task1.AssemblyInfoInputs.cache
+C:\Users\VIVOBOOK\source\repos\PZ2C#Task1\PZ2C#Task1\obj\Debug\net8.0\PZ2C#Task1.AssemblyInfo.cs
+C:\Users\VIVOBOOK\source\repos\PZ2C#Task1\PZ2C#Task1\obj\Debug\net8.0\PZ2C#Task1.csproj.CoreCompileInputs.cache
+C:\Users\VIVOBOOK\source\repos\PZ2C#Task1\PZ2C#Task1\obj\Debug\net8.0\PZ2C#Task1.dll
+C:\Users\VIVOBOOK\source\repos\PZ2C#Task1\PZ2C#Task1\obj\Debug\net8.0\refint\PZ2C#Task1.dll
+C:\Users\VIVOBOOK\source\repos\PZ2C#Task1\PZ2C#Task1\obj\Debug\net8.0\PZ2C#Task1.pdb
+C:\Users\VIVOBOOK\source\repos\PZ2C#Task1\PZ2C#Task1\obj\Debug\net8.0\PZ2C#Task1.genruntimeconfig.cache
+C:\Users\VIVOBOOK\source\repos\PZ2C#Task1\PZ2C#Task1\obj\Debug\net8.0\ref\PZ2C#Task1.dll
