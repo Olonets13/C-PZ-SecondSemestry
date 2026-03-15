@@ -1,0 +1,15 @@
+C:\Users\roman\source\repos\Practical_3\File_Analyzer_CLI\bin\Debug\net8.0\File_Analyzer_CLI.exe
+C:\Users\roman\source\repos\Practical_3\File_Analyzer_CLI\bin\Debug\net8.0\File_Analyzer_CLI.deps.json
+C:\Users\roman\source\repos\Practical_3\File_Analyzer_CLI\bin\Debug\net8.0\File_Analyzer_CLI.runtimeconfig.json
+C:\Users\roman\source\repos\Practical_3\File_Analyzer_CLI\bin\Debug\net8.0\File_Analyzer_CLI.dll
+C:\Users\roman\source\repos\Practical_3\File_Analyzer_CLI\bin\Debug\net8.0\File_Analyzer_CLI.pdb
+C:\Users\roman\source\repos\Practical_3\File_Analyzer_CLI\obj\Debug\net8.0\File_Analyzer_CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\Practical_3\File_Analyzer_CLI\obj\Debug\net8.0\File_Analyzer_CLI.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\Practical_3\File_Analyzer_CLI\obj\Debug\net8.0\File_Analyzer_CLI.AssemblyInfo.cs
+C:\Users\roman\source\repos\Practical_3\File_Analyzer_CLI\obj\Debug\net8.0\File_Analyzer_CLI.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\Practical_3\File_Analyzer_CLI\obj\Debug\net8.0\File_Analyzer_CLI.sourcelink.json
+C:\Users\roman\source\repos\Practical_3\File_Analyzer_CLI\obj\Debug\net8.0\File_Analyzer_CLI.dll
+C:\Users\roman\source\repos\Practical_3\File_Analyzer_CLI\obj\Debug\net8.0\refint\File_Analyzer_CLI.dll
+C:\Users\roman\source\repos\Practical_3\File_Analyzer_CLI\obj\Debug\net8.0\File_Analyzer_CLI.pdb
+C:\Users\roman\source\repos\Practical_3\File_Analyzer_CLI\obj\Debug\net8.0\File_Analyzer_CLI.genruntimeconfig.cache
+C:\Users\roman\source\repos\Practical_3\File_Analyzer_CLI\obj\Debug\net8.0\ref\File_Analyzer_CLI.dll

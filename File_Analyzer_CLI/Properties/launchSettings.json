@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "File_Analyzer_CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\roman\\OneDrive\\Зображення\\Dota"
+    }
+  }
+}
