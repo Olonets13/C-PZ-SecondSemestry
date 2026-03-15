@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PZ1C#Task5/1.0.0": {
+        "runtime": {
+          "PZ1C#Task5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PZ1C#Task5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
